@@ -1,6 +1,6 @@
 ### About me
 - 🔭 Web Security Researcher@Keen Lab(2020.04-now)
-- 📖 Blog: [https://www.lfysec.top/](https://www.lfysec.top/)
+- 📖 Blog: [https://lfysec.top/](https://lfysec.top/)
 - 🇺🇳 CTFer @r3kapig @HuaShuiTeam
 - 📫 Email: liufy.sec@gmail.com
 
