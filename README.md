@@ -1,7 +1,6 @@
 ### About me
-- 🔭 Security Researcher
-- 🏠 Homepage: [https://lfysec.github.io/](https://lfysec.github.io/)
-- 📖 Blog: [https://lfysec.top/](https://lfysec.top/)
+- 🔭 Security Researcher @ETH @FDU
 - 🇺🇳 CTFer @Whitzard @r3kapig 
+- 🏠 Homepage: [https://lfysec.github.io/](https://lfysec.github.io/)
 - 📫 Email: liufy.sec@gmail.com
 
